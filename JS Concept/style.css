@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    margin: 20px;
+    padding: 10px;
+    color:blue;
+    background-color: beige;
+    font-size: 2rem;
+}
+#counterlabel{
+    display: block;
+    text-align: center;
+    font-size: 5rem;
+    
+
+}
+.btncontainer{
+    text-align: center;
+}
+.button{
+    padding: 10px 10px;
+    font-size: 1.5rem;
+    background-color: blueviolet;
+    border-radius: 5px;
+    cursor: pointer;
+    transition:  background-color 0.25s;
+}
+.button:hover{
+    background-color: cadetblue;
+}
