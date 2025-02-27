@@ -1,0 +1,21 @@
+#dessert{
+    background-color: aqua;
+    
+}
+#mybutton{
+    font-size: 4rem;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+
+}
+.enabled{
+    background-color: rgb(74, 74, 201);
+    color:white;
+
+}
+.hover{
+    box-shadow: 0 0  10px rgb(53, 48, 48);
+    font-weight: bold;
+}
